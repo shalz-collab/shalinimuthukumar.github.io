@@ -1,59 +1,116 @@
-# Welcome to my project
+# Personal Portfolio Website
 
-## Project info
+This is my personal portfolio website developed to showcase my skills, projects, and technical experience as a developer.
 
+---
 
-**Use your preferred IDE**
+##  About the Portfolio
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+The portfolio highlights:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* My profile and career objective
+* Technical skills
+* Academic and personal projects
+* Certifications and achievements
+* Contact information
 
-Follow these steps:
+This website is designed to be clean, responsive, and professional.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+##  Features
 
-# Step 3: Install the necessary dependencies.
-npm i
+* Responsive design (Mobile, Tablet, Desktop)
+* Modern and minimal UI
+* Fast loading performance
+* Project showcase section
+* Skills and technologies section
+* Contact form / contact details
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+##  Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* React / Vite (if used)
+* Node.js & npm
+
+---
+
+##  Run the Project Locally
+
+### Step 1: Clone the repository
+
+```bash
+git clone <YOUR_GITHUB_REPO_URL>
+```
+
+### Step 2: Navigate to project folder
+
+```bash
+cd <PROJECT_FOLDER_NAME>
+```
+
+### Step 3: Install dependencies
+
+```bash
+npm install
+```
+
+### Step 4: Start development server
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Open in browser:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
+http://localhost:5173
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📂 Project Structure
 
-## What technologies are used for this project?
+```
+portfolio/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── styles/
+│
+├── package.json
+└── README.md
+```
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
--  CSS
+##  Objective
 
-## How can I deploy this project?
-Vercel works seamlessly with Vite + React + Tailwind projects.
-Push all changes to your GitHub repo before deploying.
+The purpose of this portfolio is to present my development skills and projects to recruiters and showcase my work professionally.
 
-Add .env file variables (if any) in Vercel/Netlify settings under Environment Variables.
+---
+
+##  Developer
+
+**Shalini**
+
+---
+
+##  Contact
+
+* Email: [shalinimuthukumar1434@gmail.com](mailto:shalinimuthukumar1434@gmail.com)
+* GitHub: https://github.com/shalz-collab
 
 
+---
 
+##  License
+
+This project is for personal and professional portfolio use.
